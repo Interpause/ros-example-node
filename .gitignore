@@ -1,0 +1,13 @@
+# ROS2
+COLCON_IGNORE
+build/*
+install/*
+log/*
+site/*
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Profiling
+*.lprof

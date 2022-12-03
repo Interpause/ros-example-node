@@ -1,0 +1,4 @@
+# Insert any package specific Python dependencies that aren't available on https://index.ros.org/.
+# Afterwards, compose this file into the ROS workspace's `requirements.txt`.
+
+# e.g., opencv-contrib-python-headless, numpy > 1.21
