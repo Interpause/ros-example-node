@@ -69,7 +69,7 @@ options:
 
 ## `requirements.txt` Escape Hatch
 
-Some dependencies may be unavailable from the `rosdep` package manager (check [ROS Index](https://index.ros.org)). For Python dependencies, they should be added to a [`requirements.txt`](./example_pkg/requirements.txt) created within the ROS package. The ROS package's [`requirements.txt`](./example_pkg/requirements.txt) should then be composed into the workspace's [`requirements.txt`](../requirements.txt).
+Some dependencies may be unavailable from the `rosdep` package manager (check [ROS Index](https://index.ros.org)). For Python dependencies, they should be added to a [`requirements.txt`](./example_pkg/requirements.txt) created within the ROS package. The ROS package's [`requirements.txt`](./example_pkg/requirements.txt) should then be composed into the workspace's [`requirements.txt`](https://github.com/Interpause/ros2-workspace-template/blob/main/requirements.txt).
 
 ## Remove a `git` Submodule
 
